@@ -6,7 +6,7 @@
 * [Kaffe](https://lokalhistoriewiki.no/wiki/Kaffe)
 * Pepper
 * Rømme
-* Ingefær
+* **Ingefær**
 * Gulrøtter
 * Banan
 * ~~Olivenolje~~
