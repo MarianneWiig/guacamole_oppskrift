@@ -2,3 +2,7 @@ Avocado
 Tomat
 Løk
 Chili
+Hvitløk
+Pepper
+Rømme
+Ingefær
