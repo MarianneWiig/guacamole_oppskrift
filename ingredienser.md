@@ -7,6 +7,7 @@
 * Pepper
 * Rømme
 * **Ingefær**
+---
 1 Gulrøtter
 2 Banan
 3 ~~Olivenolje~~
