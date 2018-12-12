@@ -1,5 +1,4 @@
-# Hjem
-Dette er en nettside for oppskrifter.
+# Matoppskrifter.
 
 ## Guacamole
 ---
