@@ -7,9 +7,9 @@
 * Pepper
 * Rømme
 * **Ingefær**
-* Gulrøtter
-* Banan
-* ~~Olivenolje~~
+1 Gulrøtter
+2 Banan
+3 ~~Olivenolje~~
 ---
 > *Sitat*
 
