@@ -1,4 +1,5 @@
 ### Ingredienser
+[Se også alternative ingredienser](enfh/ingredienser) 
 * Avocado
 * Tomat 
 * Løk 
