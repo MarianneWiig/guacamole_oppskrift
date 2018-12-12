@@ -3,12 +3,17 @@
 * Tomat 
 * Løk 
 * Chili
-* [Kaffe (https://lokalhistoriewiki.no/wiki/Kaffe)]
+* [Kaffe https://lokalhistoriewiki.no/wiki/Kaffe]
 * Pepper
 * Rømme
 * Ingefær
 * Gulrøtter
 * Banan
-* Olivenolje
+~~Olivenolje~~
 ---
 > *Sitat*
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
