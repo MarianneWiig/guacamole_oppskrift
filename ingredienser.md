@@ -24,6 +24,6 @@ Spiseskje
 | Header | Title |
 | Paragraph | Text |
 
-![alt text](image.jpg)
+![kaffe](https://lokalhistoriewiki.no/wiki/Fil:Astafjord_Samvirkelag_-_%C3%85rsmelding_og_regnskap_1969_0009.jpg)
 
 Eksempel på prosjekt: [NorKorr](https://github.com/arockenberger/NorKorr)
