@@ -1,7 +1,7 @@
 ### Ingredienser
 * Avocado
-* Tomat
-* Løk
+* Tomat 
+* Løk 
 * Chili
 * Kaffe
 * Pepper
@@ -10,3 +10,5 @@
 * Gulrøtter
 * Banan
 * Olivenolje
+---
+> *Sitat*
