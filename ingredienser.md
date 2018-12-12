@@ -14,7 +14,8 @@
 > *Sitat*
 
 Spiseskje
-:30 g
+: 30 g
+: 3 cl
 
 | Syntax | Description |
 | ----------- | ----------- |
