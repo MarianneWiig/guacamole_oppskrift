@@ -1,4 +1,4 @@
-# Matoppskrifter.
+# Matoppskrifter
 
 ## Guacamole
 ---
