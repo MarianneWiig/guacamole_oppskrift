@@ -23,3 +23,7 @@ Spiseskje
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
+
+![alt text](image.jpg)
+
+Eksempel på prosjekt: [NorKorr](https://github.com/arockenberger/NorKorr)
