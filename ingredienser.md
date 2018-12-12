@@ -3,7 +3,7 @@
 * Tomat 
 * Løk 
 * Chili
-* Kaffe
+* [Kaffe] (https://lokalhistoriewiki.no/wiki/Kaffe)
 * Pepper
 * Rømme
 * Ingefær
