@@ -27,3 +27,5 @@ Spiseskje
 ![kaffe](kaffe.jpg)
 
 Eksempel på prosjekt: [NorKorr](https://github.com/arockenberger/NorKorr)
+
+[Se basic markdown](https://www.markdownguide.org/cheat-sheet/)
