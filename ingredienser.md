@@ -9,7 +9,7 @@
 * Ingefær
 * Gulrøtter
 * Banan
-~~Olivenolje~~
+* ~~Olivenolje~~
 ---
 > *Sitat*
 
